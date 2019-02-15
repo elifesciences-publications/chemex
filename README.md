@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Sekhar et al., "Conserved conformational selection mechanism of Hsp70 chaperone-substrate interactions". eLife, 2018. http://dx.doi.org/10.7554/eLife.32764
+
+
 Quick install
 -------------
 
